@@ -1,0 +1,19 @@
+V.I.T.A. - CONTROL VISUAL DE IMPRESION
+Desarrollado para Nutreo.
+
+APLICACION PARA PERSONAL DE PLANTA:
+   Doble clic: INICIAR_VITA_OPERADOR.bat
+   O: python panel_operador.py
+   ELIGE LA CAMARA EN LA PROPIA VENTANA.
+
+CENTRO TECNICO Y PRUEBAS:
+   Doble clic: INICIAR_VITA_TECNICO.bat
+   O: python interfaz_nutreo.py
+
+REQUISITOS (SOLO UNA VEZ):
+   python -m pip install -r requirements.txt
+
+NO HAY SERVIDOR LOCAL NI NAVEGADOR. Ambas interfaces comparten el
+motor completo YOLO+OpenCV. Sin OCR y sin OpenVINO.
+
+Documentacion: MODO_OPERADOR_VITA.md y CAMBIOS_VITA_ESCRITORIO_2026.md

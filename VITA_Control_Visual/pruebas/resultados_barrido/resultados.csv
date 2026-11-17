@@ -1,0 +1,9 @@
+﻿muestra,archivo,estado,motivo,indice_continuidad,franjas,coincidencias,confirmada,indice_arrastre_interno
+foto_real_borrada,pruebas/fecha_11682_centro.png,MAL,POSIBLE IMPRESION BORRADA CONFIRMADA POR BARRIDO: Ausencia de tinta alineada en varios renglones; hay restos debiles compatibles con impresion parcialmente borrada,1.0,2,2,1,0.0
+foto_real_borrada_recorte_estrecho,pruebas/fecha_11682_estrecha.png,REVISAR,"SIN VOTO BUENA: Franja de tinta anormalmente escasa entre trazos; requiere corroboracion, sin suponer caracteres esperados",1.0,1,0,0,0.0
+real_arrastre,pruebas/casos_reales/11550_arrastre.png,MAL,"Arrastre lineal prolongado que atraviesa la tinta (longitud relativa 0.57, superposicion 0.29)",0.0,0,0,0,0.5479
+real_comparacion_sin_arrastre,pruebas/casos_reales/161708_comparacion.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0,0,0,0.0
+sintetica_sana,pruebas/barrido_normal.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0,0,0,0.0
+sintetica_espacios_intencionales,pruebas/barrido_spaces.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0,0,0,0.0
+sintetica_borrado_total,pruebas/barrido_erased.png,REVISAR,"SIN VOTO BUENA: Franja de tinta anormalmente escasa entre trazos; requiere corroboracion, sin suponer caracteres esperados",1.0,1,0,0,0.0
+sintetica_borrado_tenue,pruebas/barrido_faded.png,REVISAR,"SIN VOTO BUENA: Franja de tinta anormalmente escasa entre trazos; requiere corroboracion, sin suponer caracteres esperados",1.0,1,0,0,0.0

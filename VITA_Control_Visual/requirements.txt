@@ -1,0 +1,8 @@
+# Instalar en el equipo Windows con Python 3.10-3.12 en un entorno virtual
+ultralytics>=8.2,<9
+opencv-python>=4.8,<5
+numpy>=1.24,<3
+Pillow>=10,<13  # Mostrar las imagenes de OpenCV en la interfaz Tkinter
+# Opcional SOLO para entrenamiento de clasificador de defectos:
+# scikit-learn>=1.4
+# joblib>=1.3

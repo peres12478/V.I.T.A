@@ -1,0 +1,10 @@
+﻿imagen,estado,motivo,indice_arrastre_interno,longitud_relativa,superposicion_relativa,crestas,pixeles_sospechosos,segunda_pasada,captura_no_evaluable
+comparacion_sin_arrastre_visible_161708.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0.0,0.0,0,0,0,0
+defecto_confirmado_11550.png,MAL,"Arrastre lineal prolongado que atraviesa la tinta (longitud relativa 0.57, superposicion 0.29)",0.548,0.574,0.291,4,2369,1,0
+defecto_similar_164304.png,MAL,"Arrastre lineal prolongado que atraviesa la tinta (longitud relativa 0.53, superposicion 0.40)",0.594,0.527,0.396,6,5027,1,0
+defecto_similar_164308.png,MAL,"Arrastre lineal prolongado que atraviesa la tinta (longitud relativa 0.25, superposicion 0.22)",0.305,0.253,0.219,8,1375,1,0
+sintetica_arrastre.png,MAL,"Arrastre lineal prolongado que atraviesa la tinta (longitud relativa 0.70, superposicion 0.69)",0.907,0.701,0.694,7,4901,1,0
+sintetica_barcode.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0.0,0.0,0,0,0,0
+sintetica_lineas_originales.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0.706,0.706,5,0,0,0
+sintetica_sin_defecto.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0.0,0.0,0,0,0,0
+sintetica_sombra.png,BIEN,Sin indicios graves en los trazos analizados,0.0,0.0,0.0,0,0,0,0

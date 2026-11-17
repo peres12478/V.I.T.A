@@ -1,0 +1,2 @@
+{"captura": 1, "timestamp": "2026-11-08T00:54:03.906+00:00", "estado": "MAL", "motivo": "Diagnostico de prueba", "metricas": {"camara_contraste_luz": 80.0, "camara_ruido_relativo": 0.012, "segunda_pasada": 1.0}, "recorte": "foto_001_original.jpg"}
+{"captura": 2, "timestamp": "2026-11-08T00:54:03.906+00:00", "estado": "MAL", "motivo": "Diagnostico de prueba", "metricas": {"camara_contraste_luz": 80.0, "camara_ruido_relativo": 0.012, "segunda_pasada": 1.0}, "recorte": "foto_002_original.jpg"}

@@ -1,0 +1,2 @@
+{"captura": 1, "timestamp": "2026-11-08T00:54:02.104+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_001_original.jpg"}
+{"captura": 2, "timestamp": "2026-11-08T00:54:02.105+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_002_original.jpg"}

@@ -1,0 +1,7 @@
+{"captura": 1, "timestamp": "2026-11-08T00:54:02.105+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_001_original.jpg"}
+{"captura": 2, "timestamp": "2026-11-08T00:54:02.106+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_002_original.jpg"}
+{"captura": 3, "timestamp": "2026-11-08T00:54:02.106+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_003_original.jpg"}
+{"captura": 4, "timestamp": "2026-11-08T00:54:02.107+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_004_original.jpg"}
+{"captura": 5, "timestamp": "2026-11-08T00:54:02.107+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_005_original.jpg"}
+{"captura": 6, "timestamp": "2026-11-08T00:54:02.108+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_006_original.jpg"}
+{"captura": 7, "timestamp": "2026-11-08T00:54:02.108+00:00", "estado": "BIEN", "motivo": "Muestra BIEN", "metricas": {"camara_contraste_luz": 60.0, "camara_ruido_relativo": 0.01}, "recorte": "foto_007_original.jpg"}

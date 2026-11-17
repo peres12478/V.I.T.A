@@ -1,0 +1,18 @@
+NUTREO - VERSION CLASICA SIN OCR NI OPENVINO
+
+Esta version recupera la ultima entrega anterior a las integraciones OCR/Tesseract y OpenVINO.
+
+Componentes:
+- best.pt / YOLO para localizar fechas.
+- OpenCV para inspeccionar tinta y defectos de impresion.
+- deteccion_arrastre_interno.py para detectar arrastre que atraviesa caracteres.
+- seguimiento_banda.py para mantener el mismo producto y registrar votos.
+- interfaz_nutreo.py para la interfaz grafica.
+
+No requiere pytesseract, Tesseract OCR, openvino ni exportar el modelo.
+Para iniciar (desde Nutreo_Control_Calidad):
+    python -m pip install -r requirements.txt
+    python interfaz_nutreo.py
+
+Se conserva la validacion previa mediante zona segura y la regla de minimo 5 votos buenos (7 capturas predeterminadas), pero NO incluye la admision auxiliar por OCR ni la eliminacion posterior de duplicados basada en esa etapa.
+La precision del sistema debe validarse con la camara real y muestras etiquetadas.
